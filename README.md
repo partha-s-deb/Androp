@@ -1,4 +1,4 @@
-# BlockShare — Blockchain Document Sharing for Android
+# AnDrop — Blockchain Document Sharing for Android
 
 AirDrop-style document sharing for Android with blockchain-based authenticity verification.
 
