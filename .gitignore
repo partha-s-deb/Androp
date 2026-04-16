@@ -1,0 +1,27 @@
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Wallet files — NEVER commit private keys
+android/app/src/main/assets/wallets/
+*.json
+
+# Ganache / Truffle
+contract/build/
+contract/node_modules/
+
+# Web3j generated wrappers (regenerate from ABI)
+android/app/src/main/java/com/docshare/blockchain/generated/
+
+# Misc
+*.log
+*.class
